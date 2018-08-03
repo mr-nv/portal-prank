@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27428.2005
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "portal-prank", "portal-prank\portal-prank.vcxproj", "{CBE9D315-0079-40F5-802D-F8D63B199465}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CBE9D315-0079-40F5-802D-F8D63B199465}.Debug|x64.ActiveCfg = Debug|x64
+		{CBE9D315-0079-40F5-802D-F8D63B199465}.Debug|x64.Build.0 = Debug|x64
+		{CBE9D315-0079-40F5-802D-F8D63B199465}.Debug|x86.ActiveCfg = Debug|Win32
+		{CBE9D315-0079-40F5-802D-F8D63B199465}.Debug|x86.Build.0 = Debug|Win32
+		{CBE9D315-0079-40F5-802D-F8D63B199465}.Release|x64.ActiveCfg = Release|x64
+		{CBE9D315-0079-40F5-802D-F8D63B199465}.Release|x64.Build.0 = Release|x64
+		{CBE9D315-0079-40F5-802D-F8D63B199465}.Release|x86.ActiveCfg = Release|Win32
+		{CBE9D315-0079-40F5-802D-F8D63B199465}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {936B8838-0C1F-4E5D-8D20-D8549061F17E}
+	EndGlobalSection
+EndGlobal
